@@ -1,0 +1,5 @@
+Flask==2.3.2
+Flask_SocketIO==5.3.4
+pandas==2.0.2
+scikit_learn==1.2.2
+gunicorn==20.0.4
